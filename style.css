@@ -1,0 +1,96 @@
+h1 {
+    font-family: "Pacifico", cursive;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+h5 {
+    font-weight: bold;
+    color: rgb(62, 60, 60);
+}
+
+p.small {
+    font-size: small;
+}
+
+#explore {
+    padding: 2rem 12.5rem 0;
+}
+
+#healthline {
+    padding: 2rem 12.5rem 2rem;
+    background-color: papayawhip;
+}
+
+.inline {
+    display: inline-flex;
+}
+
+.right-absolute {
+    font-weight: bold;
+    color: darkcyan;
+    position: absolute;
+    right: 14rem;
+}
+
+.each-photo {
+    width: 100%;
+}
+
+.caption {
+    font-size: 1.3rem;
+    color: rgb(74, 72, 72);
+    font-weight: 700;
+}
+
+.navbar-nav {
+    padding-right: 5rem;
+    text-align: center;
+}
+
+.overlay-text {
+    position: relative;
+    top: 13rem;
+    background-color: whitesmoke;
+}
+
+.permanent {
+    padding: 0 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+    padding-left: 5rem;
+    font-size: 2rem;
+    font-family: "Pacifico", cursive;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.icons {
+    padding-left: 5rem;
+}
+
+.fa-brands {
+    padding: 1rem;
+}
+
+.fa-solid {
+    padding-top: .7rem;
+    color: grey;
+}
+
+.fa-solid.fa-arrow-right {
+    padding-left: 1rem;
+    color: darkcyan;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.col-lg-3 {
+    margin: 0;
+}
